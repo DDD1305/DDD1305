@@ -20,6 +20,12 @@ A team project building an interactive game to introduce users to Linux, using V
 
 **My contribution:** Developed Vue components for the simulated terminal and narrative text display. Assembled and styled the main game interface, connected player commands to game progression, and integrated the Snake and HorribleInput components into the game flow.
 
+### [STM32 Reflex Game](https://github.com/DDD1305/STM32-reflex-game)
+
+A university project developed in a team of two using C on an STM32F446RE microcontroller. The project consists of a reaction-time game using UART communication, hardware interrupts, SysTick, and a PWM-controlled buzzer.
+
+**My contribution:** Implemented asynchronous UART transmission using interrupts, keyboard input handling, and parts of the game logic, including score management.
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/gabriel-deruda-0278182b7/)
